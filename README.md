@@ -1,4 +1,4 @@
-# AgriGPT â€” Multilingual Voice Assistant for Farmers
+# AgriGPT - Multilingual Voice Assistant for Farmers
 
 A RAG-based agriculture assistant that answers farming questions in four Indian languages through voice or text.
 
